@@ -1,0 +1,45 @@
+.navbar .nav>.active>a,.navbar .nav>.active>a:hover,.navbar .nav>.active>a:focus {
+	background:#472511;
+}
+.btn-default {
+	background-color:#472511;
+}
+.footerdivide {
+	background:#472511;
+}
+.buttoncolor {
+	background:#472511;
+}
+.grid figcaption {
+	color:#472511;
+}
+.grid figcaption a {
+	background: rgba(0,0,0,0.5);
+
+	border-radius: 5px;
+}
+.grid figcaption a:hover{
+	text-decoration: none;
+	background:#d8a74e;
+}
+.colortext {
+	color:#472511;
+}
+.colorbg {
+	background:#472511;
+}
+ #Section-1 {
+	background:#472511;
+}
+ #Section-3 {
+	background:#472511;
+}
+ #Section-5 {
+	background:#472511;
+}
+ footer {
+	background:#472511;
+}
+.buttonyellow{
+	background:#d8a74e;
+}

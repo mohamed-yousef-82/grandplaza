@@ -1,0 +1,39 @@
+@font-face {
+  font-family: bein-normal;
+  src: url(../fonts/DroidKufi-Regular.ttf);
+}
+@font-face {
+  font-family: bein-bold;
+  src: url(../fonts/bein.ttf);
+}
+body{
+  direction: rtl;
+}
+body,button,h1,h2,h3,h4,p,input,textarea,a,ul,li{
+  font-family: bein-bold;
+}
+nav > ul > li a i {
+    margin-left: 5px;
+}
+.start-btn i{
+  margin-left: 5px;
+}
+.table .start-btn{
+  float: none;
+}
+.stats .box:nth-child(1) .stat{
+  margin-left: 10px;
+}
+.section-title i {
+    margin-left: 5px;
+    margin-right: 0px;
+}
+.panel{
+  margin: 0px 10px 0px 0px;
+}
+.row .box:first-child .panel {
+    margin-right: 0px;
+}
+.stats .box:nth-child(5) .stat {
+    margin-left: 0px;
+}
